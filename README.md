@@ -3,7 +3,7 @@
 
 A native Windows calculator built with WinAPI featuring dark mode support.
 
-![Calculator Screenshot](screenshot.png)
+
 
 ## Features
 - Dark theme (uses Windows 10/11 dark title bar)
